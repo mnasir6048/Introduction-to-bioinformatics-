@@ -1,7 +1,5 @@
 # Introduction-to-bioinformatics-
 1. Introduction Bioinformatics integrates biology, computer science, and data science to analyze and interpret biological data. Modern bioinformatics research relies heavily on computational tools, programming languages, version control systems, and automated workflows to ensure reproducibility and efficient data analysis.
-
-
  What I think about Bioinformatics
 ​To me, Bioinformatics is just like having a digital assistant in a lab. It is a way we use computer programs to help us manage and understand the huge amount of data we get from research. Instead of trying to write everything in notebooks or drawing by hand, we use code to look at things like DNA and proteins.
 ​Why this Course is Important
