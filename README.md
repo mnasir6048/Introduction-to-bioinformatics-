@@ -48,4 +48,4 @@ This assignment was given to Group 5 to introduce students to the basic concepts
    2. Umar Adamu/Proteomics
    3. Salim Musa Kafi/System Biology
    4. Petience Sunday/Structural Bioinformatics
-   5. Precious Elisha/Transcriptomics
+   5. Precious Elisha/Transcriptomics 
