@@ -1,5 +1,7 @@
 
-Introduction to Bioinformatics – Group 5 Project1. Project Title
+Introduction to Bioinformatics 
+ Group 5 Project
+ Project Title:
 
 Introduction to Bioinformatics – Group 5 Documentation
 
@@ -32,9 +34,9 @@ This assignment was given to Group 5 to introduce students to the basic concepts
 
  Each Member’s Area of Interest in Bioinformatics
 
-   Name.                            Area of interest 
-   1. Abdulrauf Muhammad Nasir        Genomics
-   2. Umar Adamu.                     Proteomics
-   3. Salim Musa Kafi.                System Biology
-   4. Petience Sunday.                Structural Bioinformatics
-   5. Precious Elisha.                Transcript mics 
+   Name/Area of interest 
+   1. Abdulrauf Muhammad Nasir/Genomics
+   2. Umar Adamu/Proteomics
+   3. Salim Musa Kafi/System Biology
+   4. Petience Sunday/Structural Bioinformatics
+   5. Precious Elisha/Transcript mics 
