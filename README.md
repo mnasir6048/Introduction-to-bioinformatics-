@@ -16,6 +16,13 @@ This assignment was given to Group 5 to introduce students to the basic concepts
 4.Precious Elisha
 5.Patience Sunday
 
+ Group Members Matriculation numbers
+  1. BASUG/UG/BMS/ANA/22/4311
+  2. BASUG/UG/BMS/ANA/22/5941
+  3. BASUG/UG/BMS/ANA/22/4725
+  4. BASUG/UG/BMS/ANA/22/7591
+  5. BASUG/UG/BMS/ANA/22/6963
+  
  GitHub Usernames of Contributors
 1. Mnasir6048
 2. SaleemMk
@@ -30,4 +37,4 @@ This assignment was given to Group 5 to introduce students to the basic concepts
    2. Umar Adamu.                     Proteomics
    3. Salim Musa Kafi.                System Biology
    4. Petience Sunday.                Structural Bioinformatics
-   5. Precious Elisha.                Transcriptomics
+   5. Precious Elisha.                Transcript mics 
