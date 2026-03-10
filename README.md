@@ -1,6 +1,8 @@
 
 Introduction to Bioinformatics 
+
  Group 5 Project
+ 
  Project Title:
 
 Introduction to Bioinformatics – Group 5 Documentation
