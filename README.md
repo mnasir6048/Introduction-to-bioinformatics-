@@ -35,7 +35,7 @@ This assignment was given to Group 5 to introduce students to the basic concepts
   5. BASUG/UG/BMS/ANA/22/6963
   
  GitHub Usernames of Contributors
-1. Mnasir6048
+1. mnasir6048
 2. SaleemMk
 3. ummaradam716
 4. Preciouselisha699
