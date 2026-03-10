@@ -10,13 +10,13 @@ Bioinformatics is a field that combines biology, computer science, mathematics, 
 
  Description of the Assignment
 This assignment was given to Group 5 to introduce students to the basic concepts of bioinformatics and the use of collaborative tools in research. The group used GitHub for documentation and project collaboration and Slack for communication among members. Each member contributed their GitHub username, Slack username, and area of interest in bioinformatics.
-
+  
  List of Group Members
-1.Abdulrauf Muhammad Nasir
-2.Salim Musa Kafi
-3.Umar Adamu
-4.Precious Elisha
-5.Patience Sunday
+  1.Abdulrauf Muhammad Nasir
+  2.Salim Musa Kafi
+  3.Umar Adamu
+  4.Precious Elisha
+  5.Patience Sunday
 
  Group Members Matriculation numbers
   1. BASUG/UG/BMS/ANA/22/4311
